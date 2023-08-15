@@ -62,3 +62,7 @@ This is very concise learning guide for HTML, I know HTML in general but this is
 - Difference between link and hyperlinks
   - A link is just an address(url)[location of the target page]
   - A hyperlink is an element that user can click on to navigate to that target page.
+
+### Images 🖼️
+
+- alt prop is important in img tag as it is very helpful for visually impaired people, also it shows alt text if your image is not loaded properly in the browser.
