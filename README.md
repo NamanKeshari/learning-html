@@ -28,7 +28,7 @@ This is very concise learning guide for HTML, I know HTML in general but this is
 <p>CSS Tutorial</p>
 ```
 
-### HTML entities
+#### HTML entities
 
 - `<HTML>` won't word work for browser if you try to type it in h1 tag. That's why we have entities.
 - Here is an example of **HTML entities** below:-
@@ -51,3 +51,14 @@ This is very concise learning guide for HTML, I know HTML in general but this is
     doloremque commodi totam molestias similique? Ex, rem?
   </p>
   ```
+
+### HyperLinks
+
+- href -> hypertext reference
+- You can either write relative url or absolute url
+  - url -> Uniform Resource Locator
+  - relative url -> from your current file, eg:- `href="../index.html"`
+  - absolute url -> starts from root directory, eg:- `href="/index.html"`
+- Difference between link and hyperlinks
+  - A link is just an address(url)[location of the target page]
+  - A hyperlink is an element that user can click on to navigate to that target page.
