@@ -30,12 +30,15 @@
 
 - `<HTML>` won't word work for browser if you try to type it in h1 tag. That's why we have entities.
 - Here is an example of **HTML entities** below:-
+
   ```HTML
-    <p>I love to teach you &lt;HTML&gt;! &copy;</p>
+  <p>I love to teach you &lt;HTML&gt;! &copy;</p>
   ```
+
 - You might not need entities during 99% of your coding time but here's the link if you'd like to check entities.
   https://tools.w3cub.com/html-entities
 - One more example -> `&nbsp;` used for non braking space, if we want 2 words in the same line.
+
   ```HTML
   <p>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam labore
