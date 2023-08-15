@@ -65,7 +65,6 @@ This is very concise learning guide for HTML, I know HTML in general but this is
   - A hyperlink is an element that user can click on to navigate to that target page.
 - <details>
     <summary>Important example below:-</summary>
-    <p>
     ```HTML
     <a href="/company/about.html">About Me</a>
     <a href="images/naman-image.jpg" download>My photo</a>
@@ -158,7 +157,6 @@ This is very concise learning guide for HTML, I know HTML in general but this is
       <a href="#">Jump to top</a>
     </button>
     ```
-  </p>
   </details>
 
 ### Images 🖼️
