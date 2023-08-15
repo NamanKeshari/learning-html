@@ -1,5 +1,7 @@
 # Learning HTML 💻
 
+This is very concise learning guide for HTML, I know HTML in general but this is a comparitively deep dive into HTML. Please join me in this journey.
+
 ## Meta tags used inside head
 
 - `<meta name="keywords" content="Learning, HTML" />`, here we can put keywords inside here for SEO optimization, but we don't use it for that purpose these days.
